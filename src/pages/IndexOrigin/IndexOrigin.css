@@ -1,0 +1,39 @@
+.cardInicial {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    padding: 2rem;
+}
+
+strong:nth-child(1) {
+    margin-left: 7px;
+    color: rgb(18, 112, 18);
+    font-weight: 800;
+    font-size: 4rem;
+}
+
+strong:nth-child(2) {
+    margin-left: -0.8rem;
+    color: red;
+    font-family: serif;
+    font-size: 4rem;
+    border-bottom: 1px solid red;
+}
+strong:nth-child(3) {
+    margin: 0px 7px 0px 5px;
+    color: rgb(255, 200, 3);
+    font-weight: 800;
+    font-size: 4rem;
+}
+.buttonInicial {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 50%;
+    width: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+}

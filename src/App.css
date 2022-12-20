@@ -15,7 +15,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background: url(./images/electonic.png);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
